@@ -23,7 +23,7 @@ a:hover {
     top: 0;
     bottom: 0;
     width: 100%;
-    z-index: 100000;
+    z-index: 10;
 }
 
 .bloc {
@@ -92,6 +92,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
+    z-index: -1;
 }
 
 .b-parallax {
@@ -132,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -766,7 +767,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(99, 92, 74, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -832,6 +833,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.webp");
+    z-index: -1;
 }
 
 .bg-presentation {
