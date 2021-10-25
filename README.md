@@ -2,7 +2,7 @@
 
 ## Auteur
 
-👤 &nbsp; **Guillaume AUBIN** [Contactez moi](<aubinguillaume4@gmail.com>)
+👤 &nbsp; **Guillaume AUBIN**
 
 * Github: [@Guillaume Aubin](https://github.com/GuillaumeAubin?tab=repositories "Cliquez pour voir mes projets")
 * LinkedIn: [@Guillaume Aubin](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil")
