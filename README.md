@@ -4,7 +4,7 @@
 
 👤 &nbsp; **Guillaume AUBIN**
 
-* Github: [@Guillaume Aubin](https://github.com/GuillaumeAubin?tab=repositories "Cliquez pour voir mes projets")
+* GitHub: [@Guillaume Aubin](https://github.com/GuillaumeAubin?tab=repositories "Cliquez pour voir mes projets")
 * LinkedIn: [@Guillaume Aubin](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil")
 
 ***
@@ -12,7 +12,7 @@
 
 ### Optimiser le SEO d'un site
 
-Le site optimisé hébergé sur GitHub: [La Chouette agence](https://github.com/GuillaumeAubin/Amelioration_SEO_La_Chouette_Agence)
+Le site optimisé hébergé sur GitHub : [La Chouette Agence](https://github.com/GuillaumeAubin/Amelioration_SEO_La_Chouette_Agence)
 
 #### 🔨 Optimisez un site web existant
 
@@ -33,3 +33,9 @@ Le site optimisé hébergé sur GitHub: [La Chouette agence](https://github.com/
 * Amélioration du SEO du site.
 * Accessibilité du site web.
 * Comparaison des résultats.
+
+***
+
+##### Travail réalisé
+
+Veuillez me contacter pour découvrir l'intégralité du travail réalisé.
