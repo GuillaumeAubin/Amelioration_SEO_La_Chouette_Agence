@@ -5,7 +5,7 @@
 👤 &nbsp; **Guillaume AUBIN**
 
 * GitHub: [@Guillaume Aubin](https://github.com/GuillaumeAubin?tab=repositories "Cliquez pour voir mes projets")
-* LinkedIn: [@Guillaume Aubin](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil")
+* LinkedIn: [@Guillaume Aubin](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil LinkedIn")
 
 ***
 ## 📎 Projet 4 - Optimisez le site web existant "La Chouette Agence"
