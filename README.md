@@ -1,4 +1,4 @@
-# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) OpenClassrooms-Développeur Web
+# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) OpenClassrooms - Développeur Web - Accessibilité & SEO
 
 ## Auteur
 
@@ -8,7 +8,7 @@
 * LinkedIn: [@Guillaume Aubin](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil")
 
 ***
-## 📎 Projet 4 - Optimisez le site web existant "La Chouette Agence" SEO & accessibilité
+## 📎 Projet 4 - Optimisez le site web existant "La Chouette Agence"
 
 ### Optimiser le SEO d'un site
 
