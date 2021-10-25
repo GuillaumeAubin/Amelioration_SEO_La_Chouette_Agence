@@ -36,6 +36,6 @@ Le site optimisé hébergé sur GitHub avec le rendu final : [La Chouette Agence
 
 ***
 
-##### Travail réalisé
+### Travail réalisé
 
 Veuillez me contacter pour découvrir l'intégralité du travail réalisé.
